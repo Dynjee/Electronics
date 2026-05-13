@@ -22,6 +22,6 @@ A collection of my electronics, embedded systems, and hardware security projects
 
 Basic LED blinking project using a microcontroller or Raspberry Pi GPIO.
 
-<img src="Beginner/Blinking-led/DSC00341.JPG" alt="Blinking LED Project" width="300">
+<img src="Blinking-led/DSC00341.JPG" alt="Blinking LED Project" width="300">
 
 ---
