@@ -29,6 +29,8 @@ A simple GPIO project where a push button controls an LED using a Raspberry Pi.
 
 # 🟡 Novice Projects
 
+## Electronic Watch
+
 > Coming soon...
 
 ---
