@@ -20,7 +20,6 @@ Basic LED blinking project using a microcontroller or Raspberry Pi GPIO.
   <img src="Blinking-led/DSC00341.JPG" alt="Blinking LED Project" width="700">
 </p>
 
-Schematic: 
 
 ### Button Input LED
 Basic LED blinking project using a microcontroller or Raspberry Pi GPIO.
@@ -29,5 +28,10 @@ Basic LED blinking project using a microcontroller or Raspberry Pi GPIO.
   <img src="Button_Input/DSC00371.JPG" alt="Button Input LED" width="700">
 </p>
 
+Schematic: 
+/Beginner/Button_Input/Button_Input_Schematic.png
+<p align="center">
+  <img src="Button_Input/Button_Input_Schematic.png" alt="Button Input LED" width="700">
+</p>
 
 
