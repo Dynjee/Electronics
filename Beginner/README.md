@@ -1,37 +1,37 @@
 # Electronics Projects
 
-## What I've Learned
-- Basic circuit design
-- GPIO control with Raspberry Pi
-- LEDs, buttons, and resistors
-- Breadboard prototyping
-- Python for hardware interaction
-- Embedded systems fundamentals
-- PCB concepts
-- Hardware debugging and troubleshooting
+Projects documenting my progress in electronics, embedded systems, and hardware.
 
-## Beginner Projects
+## Skills Learned
+- Circuit design
+- Raspberry Pi GPIO
+- LEDs, buttons, resistors
+- Breadboarding
+- Python hardware control
+- Debugging electronics
 
-### Blinking LED
+---
 
-Basic LED blinking project using a microcontroller or Raspberry Pi GPIO.
+## Blinking LED
+
+Simple GPIO LED blink project.
 
 <p align="center">
   <img src="Blinking-led/DSC00341.JPG" alt="Blinking LED Project" width="700">
 </p>
 
+---
 
-### Button Input LED
-Basic LED blinking project using a microcontroller or Raspberry Pi GPIO.
+## Button Input LED
+
+LED controlled using a push button.
 
 <p align="center">
   <img src="Button_Input/DSC00371.JPG" alt="Button Input LED" width="700">
 </p>
 
-Schematic: 
-/Beginner/Button_Input/Button_Input_Schematic.png
+### Schematic
+
 <p align="center">
-  <img src="Button_Input/Button_Input_Schematic.png" alt="Button Input LED" width="700">
+  <img src="Button_Input/Button_Input_Schematic.png" alt="Button Input Schematic" width="700">
 </p>
-
-
