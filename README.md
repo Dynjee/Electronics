@@ -13,8 +13,6 @@ Hands-on projects focused on electronics, embedded systems, GPIO, and hardware e
 
 ## 🔘 Button Input LED
 
-A simple GPIO project where a push button controls an LED using a Raspberry Pi.
-
 <div align="center">
   <img src="Beginner/Button_Input/DSC00371.JPG" alt="Button Input LED" width="750">
 </div>
@@ -31,23 +29,41 @@ A simple GPIO project where a push button controls an LED using a Raspberry Pi.
 
 ## 🔘 RFID
 
-A simple GPIO project where a push button controls an LED using a Raspberry Pi.
+A basic RFID authentication system that reads tag IDs using an RFID reader module and triggers actions (LED/relay) based on authorized credentials.
 
 <div align="center">
-  <img src="Novice/RFID/Gallery/schematic%20rfid.png" alt="Button Input LED" width="750">
+  <img src="Novice/RFID/Gallery/rfid1.png" alt="Button Input LED" width="750">
 </div>
 
+### 📐 Schematic
+
+<div align="center">
+  <img src="Novice/RFID/Gallery/schematic%20rfid.png" alt="Button Input Schematic" width="750">
+</div>
+
+
+# 🔵 Intermediate (Coming Soon)
+---
 
 > Coming soon...
 
 ---
 
-# 🛠 Skills Learned
+# 🛠 Skills Developed
 
-- Circuit fundamentals
-- GPIO control
-- Breadboarding
-- LED/button interfacing
-- Python hardware programming
-- Debugging circuits
-- Reading schematics
+- Circuit fundamentals  
+- GPIO input/output control  
+- Breadboarding and prototyping  
+- Embedded Python programming  
+- Sensor and module interfacing  
+- Debugging hardware systems  
+- Reading and designing schematics  
+
+---
+
+<div align="center">
+
+### 🚀 Goal
+Building real-world embedded systems that combine hardware, software, and security principles.
+
+</div>
