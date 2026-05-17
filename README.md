@@ -29,7 +29,14 @@ A simple GPIO project where a push button controls an LED using a Raspberry Pi.
 
 # 🟡 Novice Projects
 
-## Electronic Watch
+## 🔘 RFID
+
+A simple GPIO project where a push button controls an LED using a Raspberry Pi.
+
+<div align="center">
+  <img src="Novice/RFID/Gallery/schematic%20rfid.png" alt="Button Input LED" width="750">
+</div>
+
 
 > Coming soon...
 
