@@ -25,7 +25,7 @@ Hands-on projects focused on electronics, embedded systems, GPIO, and hardware e
 
 ---
 
-# 🟡 Novice Projects
+# 🟡 One of Novice Projects
 
 ## 🔘 RFID
 
@@ -42,7 +42,7 @@ A basic RFID authentication system that reads tag IDs using an RFID reader modul
 </div>
 
 
-# 🔵 Intermediate
+# 🔵 One of Intermediate Projects
 
 <div align="center">
   <img src="Intermediate/fun33/Pin-out.png" alt="Button Input Schematic" width="750">
