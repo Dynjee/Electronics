@@ -43,11 +43,15 @@ A basic RFID authentication system that reads tag IDs using an RFID reader modul
 
 
 # 🔵 Intermediate (Coming Soon)
----
 
-> Coming soon...
+<div align="center">
+  <img src="Intermediate/fun33/Pin-out.png" alt="Button Input Schematic" width="750">
+</div>
 
----
+<div align="center">
+  <img src="Intermediate/fun33/schematic.png" alt="Button Input Schematic" width="750">
+</div>
+
 
 # 🛠 Skills Developed
 
