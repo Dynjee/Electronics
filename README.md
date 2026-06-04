@@ -29,7 +29,7 @@ Hands-on projects focused on electronics, embedded systems, GPIO, and hardware e
 
 ## 🔘 RFID
 
-A basic RFID authentication system that reads tag IDs using an RFID reader module and triggers actions (LED/relay) based on authorized credentials.
+A RFID authentication system that reads tag IDs using an RFID reader module and triggers actions (LED/relay) based on authorized credentials.
 
 <div align="center">
   <img src="Novice/RFID/Gallery/rfid1.png" alt="Button Input LED" width="750">
